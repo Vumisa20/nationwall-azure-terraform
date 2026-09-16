@@ -312,4 +312,4 @@ Project 1 — Infrastructure & Automation: Complete
 
 The Azure infrastructure was provisioned through Terraform, remote state was configured in Azure Blob Storage, and the final Terraform plan reported no changes.
 
-Next: Project 2 — Automation & Monitoring
+Next: Project 2 — Automation & Monitoring .
