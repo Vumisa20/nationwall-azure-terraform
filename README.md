@@ -102,6 +102,8 @@ A local Windows administration/testing environment.
 
 The Azure environment provisioned through Terraform.
 
+![NationWall Azure Infrastructure Architecture](architecture.png)
+
 LOCAL WINDOWS ENVIRONMENT
 -------------------------
 NW-SRV-001
