@@ -1,0 +1,4 @@
+subscription_id      = "YOUR_SUBSCRIPTION_ID"
+storage_account_name = "YOUR_STORAGE_ACCOUNT_NAME"
+vm_admin_username    = "nationwalladmin"
+vm_ssh_public_key    = "YOUR_SSH_PUBLIC_KEY"
